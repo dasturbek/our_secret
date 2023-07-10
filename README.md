@@ -36,4 +36,4 @@ pip install tkinter
 ## Usage 💡
 1. Download this repository.
 2. install librarys.
-3. py main.py
+3. py bekpad.py
