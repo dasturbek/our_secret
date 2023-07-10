@@ -1,7 +1,4 @@
 <div align="center">
-
-  <br>
-  <br>
   <h1>
     <b>Our SECRET</b>
     <br>
