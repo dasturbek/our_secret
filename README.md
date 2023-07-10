@@ -4,9 +4,9 @@
     <br>
   </h1>
       <img src="https://github.com/dasturbek/our_secret/blob/master/img1.png" width=60% align="center"><br> 
-      Our Secret image1(Simple text)
+      Our Secret image1(Simple text)<br>
       <img src="https://github.com/dasturbek/our_secret/blob/master/img2.png" width=60% align="center"><br>    
-      Our Secret image1(shefr text)
+      Our Secret image1(shefr text)<br>
     <a href="https://www.youtube.com/watch?v=-JIi_7MLpqQ">
       Click here and watching video of Our Secret
     </a>
